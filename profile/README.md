@@ -20,6 +20,8 @@ processing option, and a data processing agreement on request.
 | Repository | What it shows |
 |---|---|
 | [chat-app-s3-demo](https://github.com/cdntr/chat-app-s3-demo) | Real-time chat: Socket.io on Managed Container Apps, messages in Postgres, attachments in S3 via presigned URLs ([guide](https://cdn.com.tr/en/learn/chat-app-with-object-storage), [video](https://youtu.be/qBFssTANINU)) |
+| [wordpress-cdnctl-example](https://github.com/cdntr/wordpress-cdnctl-example) | WordPress on CDNTR: edge cache, and precise cache purge from a laptop or CI with cdnctl ([guide](https://cdn.com.tr/en/learn/wordpress-cdn-setup)) |
+| [static-site-push-cdn-example](https://github.com/cdntr/static-site-push-cdn-example) | A static site on push CDN with no origin server: build, `cdnctl sync`, purge the HTML, plus an S3 bucket variant ([guide](https://cdn.com.tr/en/learn/cdn-file-storage)) |
 
 ## Learn more
 
